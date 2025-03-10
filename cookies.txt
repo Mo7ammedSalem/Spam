@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+abdocenter.com	TRUE	/	FALSE	1999999999	PHPSESSID	e1ebcbea002f8b121d9616f4d7e0e7a0
+
